@@ -10,7 +10,7 @@ Collection of data analytics projects.
 * Project divided in two main sections: Data Cleaning and Exploratory Data Analysis (EDA);
 * The goal of this EDA was to explore potential relationships between different feautures and the price of an Airbnb in Porto.
 
-#### Tools: Python (Pandas, Matplotlib and Seaborn)
+#### Language(s): Jupyter Notebook, Python (Pandas, Matplotlib and Seaborn)
 
 <br />
 
@@ -29,4 +29,4 @@ Collection of data analytics projects.
 
 * The data prepared in SQL was imported to Tableau Public where a dashboard was created, providing a visual presentation of some of the EDA's contents: [Tableau](https://public.tableau.com/app/profile/paulop)
 
-#### Tools: SQL (T-SQL) and Tableau
+#### Language(s): SQL (T-SQL)
