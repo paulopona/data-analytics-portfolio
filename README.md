@@ -4,7 +4,7 @@ Collection of data analytics projects.
 
 <br />
 
-## Project 1: Porto's Airbnbs EDA 
+## [Project 1: Porto's Airbnbs EDA](https://github.com/paulopona/porto-airbnbs-eda)
 
 * CSV file containing Airbnb listings in Porto was used as source and imported into Python as a Dataframe;
 * Project divided in two main sections: Data Cleaning and Exploratory Data Analysis (EDA);
@@ -14,7 +14,7 @@ Collection of data analytics projects.
 
 <br />
 
-## Project 2: Product Sales EDA
+## [Project 2: Product Sales EDA](https://github.com/paulopona/product-sales-eda)
 
 * Source data composed of 12 different CSV files (one per month), which were loaded to Microsoft SQL Server Management Studio using the Import Wizard;
 * Project is divded in two main sections: Data Preparation and Exploratory Data Analysis;
