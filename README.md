@@ -27,6 +27,6 @@ Collection of data analytics projects.
 
 <br />
 
-* The data prepared in SQL was imported to Tableau Public where a dashboard was created, providing a visual presentation of some of the EDA's contents: [Tableau](https://public.tableau.com/app/profile/paulop)
+* The data prepared in SQL was imported to Tableau Public where a dashboard was created, providing a visual presentation of some of the EDA's contents: [Tableau](https://public.tableau.com/app/profile/paulop](https://public.tableau.com/app/profile/paulop/viz/ProductSalesRevenue/ProductSalesRevenue)
 
 #### Language(s): SQL (T-SQL)
